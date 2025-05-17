@@ -88,5 +88,4 @@ Ao subir a API, já existem 5 clientes pré-cadastrados com os seguintes limites
 | 3   | 1 000 000          | 0              |
 | 4   | 10 000 000         | 0              |
 | 5   | 500 000            | 0              |
-|-----|--------------------|----------------|
 
